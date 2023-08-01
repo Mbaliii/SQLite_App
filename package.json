@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "expo": "~49.0.5",
+    "expo-dev-client": "^2.4.6",
+    "expo-document-picker": "^11.5.4",
+    "expo-file-system": "^15.4.2",
+    "expo-sharing": "^11.5.0",
     "expo-sqlite": "^11.3.2",
     "expo-status-bar": "~1.6.0",
     "install": "^0.13.0",
